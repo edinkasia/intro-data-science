@@ -1,0 +1,21 @@
+﻿Patient_no,Name,Age,Gender,Temp,Complaint,Drove
+1,Bob,less than 21,male,36.6,cough,0
+2,Donna,21-65,female,37,migraine,1
+3,Diana,greater than 65,female,38.5,chest infection,0
+4,Barbara,less than 21,female,36.6,tennis elbow,1
+5,Martin,greater than 65,male,36.5,joint pain,0
+6,Thomas,21-65,male,36.6,cough,1
+7,Crispin,21-65,male,36.4,flu,0
+8,Alice,less than 21,female,36.9,verruca,1
+9,Stephanie,greater than 65,female,37.1,cough,0
+10,Sam,less than 21,non-binary,36.7,migraine,1
+11,Lorna,greater than 65,female,36.6,chest infection,0
+12,Anna,21-65,female,36.6,tennis elbow,1
+13,Adam,less than 21,male,36.2,joint pain,0
+14,Stephen,21-65,male,36.6,cough,1
+15,Graham,greater than 65,male,36.6,flu,0
+16,Alex,21-65,non-binary,36.4,verruca,1
+17,Jack,21-65,male,37,cough,0
+18,Julie,21-65,female,36.5,migraine,1
+19,Paul,21-65,male,36.7,chest infection,0
+20,Tanja,21-65,female,36.6,tennis elbow,1
